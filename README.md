@@ -15,9 +15,9 @@ We have to use JavaScript to create a BarChart with the following features:
 
 ### Files
 The exercise includes three files:
-1.Main.js,
-2.Index.html,
-3.Readme.md,
+- 1.Main.js,
+- 2.Index.html,
+- 3.Readme.md,
 
 
 ____
