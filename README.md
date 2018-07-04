@@ -19,5 +19,6 @@ The exercise includes three files:
 - 2.Index.html
 - 3.Readme.md
 
-
+### Contact details
+joseluis.xs@uma.es
 ____
