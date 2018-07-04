@@ -4,7 +4,7 @@ masterbd exercises
 
 In this exercise we have to display a barchart starting from barchart refactor sample provided by Braulio Diez (https://github.com/Lemoncode). 
 
-###Task
+### Tasks
 We have to use JavaScript to create a BarChart with the following features:
 
 - Adding space between columns,
