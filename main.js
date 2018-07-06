@@ -1,7 +1,7 @@
 //*Firstly we set the color of bars
 var totalSales = [
-    { product: 'Hoodie', sales: 12 , "color" : "MediumTurquoise"},
-    { product: 'Jacket', sales: 4 ,"color" : "MediumPurple"},
+    { product: 'Hoodie', sales: 12 , "color" : "green"},
+    { product: 'Jacket', sales: 4 ,"color" : "pink"},
     { product: 'Snuggie', sales: 7 ,"color" : "yellow"},
     ];
 
@@ -55,7 +55,7 @@ function setupXScale()
         return d.product;
       }))
   //* Now we add the space between the bars
-      .paddingInner(0.10)
+      .paddingInner(0.20)
   }
   
 function setupYScale()
